@@ -2,7 +2,7 @@
 
 Implements and caculates the proabilities for below bnet - 
 
- ![Bayesian Network](https://github.com/Nivedita123/uta-artificial-intelligence/Bayesian Network/blob/master/bnet.png?raw=true)
+ ![Bayesian Network](https://github.com/Nivedita123/uta-artificial-intelligence/blob/master/Bayesian%20Network/bnet.png)
  
 ## Code Structure:
 
